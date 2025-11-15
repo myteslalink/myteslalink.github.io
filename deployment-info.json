@@ -1,0 +1,9 @@
+{
+  "deployedAt": "2025-11-15T06:30:36Z",
+  "sourceCommit": "d4c95925e4e1ed49e949fe91f088e44cba799029",
+  "sourceRepository": "tristankuo/teslalink",
+  "deploymentTrigger": "automated-data-update",
+  "version": "0.1.0",
+  "environment": "production",
+  "dataUpdate": true
+}
