@@ -1,0 +1,8 @@
+{
+  "deployedAt": "2026-01-03T01:20:08Z",
+  "sourceCommit": "17220c59b2ae933347c3661b6d3f2072d40c648f",
+  "sourceRepository": "tristankuo/teslalink",
+  "deploymentWorkflow": "🚢 Deploy to Production",
+  "version": "0.1.0",
+  "environment": "production"
+}
